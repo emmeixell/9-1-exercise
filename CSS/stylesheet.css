@@ -1,0 +1,30 @@
+body {
+	background-color: crimson;
+}
+
+* {
+	color: #FFFFFF; /*rgb(255,255,255)*/
+}
+
+h1 {
+	color: skyblue;
+}
+
+
+h2 {
+	color: black;
+}
+
+.animal {
+	color: skyblue;
+	font-family: 'Annie Use Your Telescope';
+	font-size: 35px;
+}
+
+p {
+	color: skyblue;
+}
+
+a {
+	color: blue;
+}
